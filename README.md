@@ -35,14 +35,12 @@ The **Touchless AI Volume Controller** is an AI-powered system designed to contr
 
 ## 💻 Installation
 
-1. **Clone the repository**
-  
-   git clone https://github.com/yourusername/touchless-volume-controller.git
+1. **Clone the repository** git clone https://github.com/yourusername/touchless-volume-controller.git
    cd touchless-volume-controller
    
-2. **Install dependencies** -pip install opencv-python mediapipe numpy pycaw
+2. **Install dependencies** pip install opencv-python mediapipe numpy pycaw
 
-3. **Run the application** -python volume_controller.py
+3. **Run the application** python volume_controller.py
 🧠 Use Cases
 Hands-free control while cooking, working out, or gaming
 
